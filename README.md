@@ -69,3 +69,5 @@ Your Intrest:
 - [Interest 3]
 
 One thing I want to build this month: [Project idea or goal]
+
+🧠 [New to GitHub? Start here →](./what-is-github.md)
