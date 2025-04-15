@@ -20,6 +20,7 @@ By the time we’re done, this won’t just be a bunch of files—it’ll be a d
 ---
 
 ## 🧭 Your Roadmap
+📍 [View the full roadmap here →](./roadmap.md)
 
 You don’t need to figure everything out today. Here’s the path we’ll take:
 
