@@ -61,8 +61,8 @@ You don’t need to figure everything out today. Here’s the path we’ll take:
 You’ll customize this section with your own details once you get started.
 
 ```markdown
-Hi, I'm [Your Name].  
-I'm in [Grade] grade and right now I'm into:
+
+Right now I'm into:
 - [Interest 1]
 - [Interest 2]
 - [Interest 3]
@@ -70,7 +70,4 @@ I'm in [Grade] grade and right now I'm into:
 One thing I want to build this month: [Project idea or goal]
 
 
----
-
-🔥 Once this is committed to the template, you’ve created a guided experience—not just a repo. Want me to prep the matching `roadmap.md` file now?
 
