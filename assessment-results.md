@@ -1,23 +1,26 @@
 # 🧠 Self-Discovery Assessments
 
-These are the results and thoughts from various personality/career assessments I’ve taken.
+## ✅ 16Personalities
+- Type: 
+- Summary: 
+- What felt true? 
+- What surprised me?
 
 ---
 
-## ✅ 16Personalities
-- Type: [e.g., INFP]
-- Summary: [Short description from test]
-- Thoughts: [How it felt reading it, what stood out]
+## ✅ Truity Career Test
+- Top Career Matches:
+- Interest Areas:
+- Which careers sound exciting?
 
 ---
 
 ## ✅ MyNextMove
-- Top Careers: [e.g., Film Editor, Animator, UX Designer]
-- Interests: [Notes from the test]
-- Skills to explore: [e.g., Photoshop, Blender, CapCut]
+- Top Clusters:
+- Skills you want to learn:
 
 ---
 
-## ✅ Reflections
-What I learned about myself:
-- ...
+## 🧠 Reflection
+- What kind of work or projects would I actually enjoy?
+- If I had to build *one thing* this month, what would it be?
