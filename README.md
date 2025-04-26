@@ -63,8 +63,8 @@ You don’t need to figure everything out today. Here’s the path we’ll take:
 
 You’ll customize this section with your own details once you get started.
 
-```markdown
-[Your Name].  
+
+Weston Vidal.  
 Your Intrest:
 - [Interest 1]
 - [Interest 2]
